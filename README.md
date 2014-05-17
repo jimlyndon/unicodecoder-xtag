@@ -1,4 +1,4 @@
-# &lt;unicodecoder-polymer&gt;
+# &lt;unicodecoder-xtag&gt;
 
 > Unicode Character Reverse Lookup
 
@@ -14,7 +14,7 @@ For a deeper understanding of escaping and encoding, take a look at [jsescape](h
 [Check it live!](http://jimlyndon.github.io/unicodecoder-xtag)
 
 ## Install
-``
+
 Install the component using [Bower](http://bower.io/):
 
 ```sh
