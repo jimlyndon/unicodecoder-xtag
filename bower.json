@@ -1,0 +1,31 @@
+{
+  "name": "unicodecoder",
+  "version": "0.0.1",
+  "authors": [
+    "jim lyndon <jimlyndon@live.com>"
+  ],
+  "description": "unicode decoder",
+  "keywords": [
+    "Polymer",
+    "web-components",
+    "unicode",
+    "escape",
+    "unescape",
+    "encode",
+    "decode"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/jimlyndon/unicodecoder-xtag",
+  "dependencies": {
+    "x-tag-core": "~0.9.5",
+    "polymer": "~0.2.3"
+  }
+}
